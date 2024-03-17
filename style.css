@@ -1,0 +1,320 @@
+.navbar{
+    height: 99px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #000000;
+    
+}
+
+.starbuck{
+    height: 49px;
+    background-image: url("starbucks.jpg");
+    width: 49px;
+    background-size: cover;
+    
+}
+
+.menu{
+    
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.reward
+{
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.gift{
+    font-size: 1rem;
+    font-weight: bolder;
+    margin-right: 200px;
+}
+
+.location{
+    font-size: 1.5rem;
+    
+}
+
+.store{
+    display: flex;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 10px;
+  
+}
+
+
+.sign{
+    font-size: 1rem;
+    font-weight: 700;
+    border: 1px solid black;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    
+}
+
+.join{
+    font-size: 1rem;
+    font-weight: 700;
+    border: 1px solid black;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.nav{
+    height: 40px;
+    background-color: #1e3932;
+    display: flex;
+    align-items: center;
+}
+
+.rewards{
+    color: white;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+}
+
+.main{
+    background-image: url("starbucksextra.jpg");
+    height: 500px;
+    background-size: cover;
+    padding-top: 200px;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+  
+}
+
+
+
+.now{
+    text-decoration: none;
+   height: 19px;
+  color: white;
+  background-color: #1e3932;
+}
+
+.body{
+    height: 470px;
+    color: #ffffff;
+    padding-top: 30px;
+    background-image: url("oshi1.jpg");
+    background-size: cover;
+    
+    
+}
+
+.body2{
+    padding-left: 610px;
+    height: 32px;
+    font-weight: bold;
+    font-size: 2rem;
+    
+}
+
+.body3{
+    padding-left: 550px;
+    font-size: 1.5rem;
+}
+
+.number{
+    height: 265px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 60px;
+    margin-right: 20px;
+}
+
+.number1{
+    height: 48px;
+    padding-right: 30px;
+   margin-top: 15px;
+}
+
+.photo1{
+    height: 40px;
+    width: 40px;
+    border: 3px solid green;
+    border-radius: 50%;
+    margin-top: 10px;
+    font-weight: bolder;
+    margin-left: 130px;
+    color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.number1 h2{
+  
+    font-size: 2rem;
+   padding-left: 20px;
+}
+
+.number1 p{
+      font-size: 1.25rem;
+}
+
+.number2{
+   
+    background-size: cover;
+    height: 48px;
+    margin-left: 50px;
+}
+
+.photo2{
+    height: 40px;
+    width: 40px;
+    border: 3px solid green;
+    border-radius: 50%;
+    margin-top: 10px;
+    font-weight: bolder;
+    margin-left: 180px;
+    color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.number2 h2{
+    font-size: 2rem;
+}
+
+.number2 p{
+    font-size: 1.25rem;
+}
+
+.number3{
+    
+    background-size: cover;
+    height: 48px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+.photo3{
+    height: 40px;
+    width: 40px;
+    border: 3px solid green;
+    border-radius: 50%;
+    margin-top: 10px;
+    font-weight: bolder;
+    margin-left: 130px;
+    color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.number3 h2{
+    font-size: 2rem;
+}
+
+.number3 p{
+    font-size: 1.25rem;
+}
+
+.drink{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.star{
+    display: flex;
+    font-size: 1.25rem;
+   justify-content: space-evenly;
+    align-items:center;
+}
+
+.sip{
+    height: 500px;
+    background-image: url("hello.jpg");
+    background-size: cover;
+    color: #ffffff;
+}
+
+.shot{
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-size: 2rem;
+    padding-right: 100px;
+    padding-top: 150px;
+    font-weight: bolder;
+}
+
+.para{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+   
+    font-size: 1.5rem;
+    
+   
+}
+
+.body9{
+    padding-left: 230px;
+    font-size: 1.25rem;
+}
+
+.foot{
+    height: 250px;
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+}
+
+.fun1{
+    background-image: url("starbucks4.jpg");
+    background-size: cover;
+    height: 112px;
+    width: 112px;
+    border-radius: 50%;
+    margin-left: 120px;
+
+}
+
+.fun2{
+    background-image: url("starbucks6.jpg");
+    background-size: cover;
+    height: 112px;
+    width: 112px;
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+.fun3{
+    background-image: url("starbucks5.png");
+    background-size: cover;
+    height: 112px;
+    width: 112px;
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+.bodytag{
+    height: 500px;
+}
